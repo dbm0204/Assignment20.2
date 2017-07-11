@@ -20,6 +20,10 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+/**
+ * MainActivity extends AppCompactActivity and inplements View.onClickListener
+ *
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     EditText editText_name, editText_phone;
     Button button_add;

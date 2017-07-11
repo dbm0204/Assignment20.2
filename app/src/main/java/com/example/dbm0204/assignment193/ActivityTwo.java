@@ -30,6 +30,10 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+/**
+ * ActivityTwo extesnds APPCOMPACTACTIVITY and asks for permisison
+ *
+ */
 public class ActivityTwo extends AppCompatActivity {
     EditText ev_diag_contactNumber;
 
